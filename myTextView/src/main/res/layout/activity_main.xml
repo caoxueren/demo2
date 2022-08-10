@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/edit_text1"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:hint="请输入用户名"
+        android:textColorHint="@color/black"
+        android:inputType="textPersonName"/>
+
+    <EditText
+        android:id="@+id/edit_text2"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:hint="请输入用户名"
+        android:textColorHint="@color/teal_200"
+        android:drawableLeft="@drawable/ic_baseline_group_24"
+        android:drawablePadding="20dp"
+       android:paddingLeft="20dp"
+        android:inputType="textPassword"/>
+
+      <Button
+          android:id="@+id/btn"
+          android:text="点击我"
+          android:layout_width="100dp"
+          android:layout_height="50dp"
+          android:background="@color/teal_700"/>
+
+
+
+</LinearLayout>

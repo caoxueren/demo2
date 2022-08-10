@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/login_button" />
+            <option value="$PROJECT_DIR$/myBroadcastReceiver" />
+            <option value="$PROJECT_DIR$/myContentProviderStorage" />
+            <option value="$PROJECT_DIR$/myJurisdiction" />
+            <option value="$PROJECT_DIR$/myLayout" />
+            <option value="$PROJECT_DIR$/myNetworkStorage" />
+            <option value="$PROJECT_DIR$/myPhoneStorage" />
+            <option value="$PROJECT_DIR$/myProgressBar" />
+            <option value="$PROJECT_DIR$/mySQLiteStorage" />
+            <option value="$PROJECT_DIR$/mySQLiteStorage_example" />
+            <option value="$PROJECT_DIR$/myService" />
+            <option value="$PROJECT_DIR$/myService2" />
+            <option value="$PROJECT_DIR$/myService3" />
+            <option value="$PROJECT_DIR$/mySharedPreferencesStorage" />
+            <option value="$PROJECT_DIR$/myTextView" />
+            <option value="$PROJECT_DIR$/myaActivity_life" />
+            <option value="$PROJECT_DIR$/myimageView" />
+            <option value="$PROJECT_DIR$/mytest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

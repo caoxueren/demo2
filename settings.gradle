@@ -1,0 +1,34 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Application"
+include ':app'
+include ':myTextView'
+include ':myimageView'
+include ':myProgressBar'
+include ':login_button'
+include ':myLayout'
+include ':mySharedPreferencesStorage'
+include ':myPhoneStorage'
+include ':mySQLiteStorage_example'
+include ':mytest'
+include ':myJurisdiction'
+include ':mySQLiteStorage'
+include ':myaActivity_life'
+include ':myService'
+include ':myService2'
+include ':myService3'
+include ':myBroadcastReceiver'
+include ':myNetworkStorage'
+include ':myContentProviderStorage'
